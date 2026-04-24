@@ -1,0 +1,16 @@
+﻿{
+  "id": "logger",
+  "name": "Logger",
+  "version": "1.0.0",
+  "entrypoint": "cog",
+  "description": "Message edit/delete logging module for R4Bot.",
+  "author": "Rarmash",
+  "min_core_version": "2.0",
+  "required_settings": [
+    "accent_color"
+  ],
+  "required_services": [
+    "firebase",
+    "module_config"
+  ]
+}
