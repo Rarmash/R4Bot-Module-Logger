@@ -40,3 +40,9 @@
 ```powershell
 python manage_modules.py install github:Rarmash/R4Bot-Module-Logger@master --enable
 ```
+## Разработка
+Для нормальной подсветки импортов в IDE и локальной проверки модуля рекомендуется установить зависимости:
+
+```powershell
+python -m pip install -r requirements.txt
+```
