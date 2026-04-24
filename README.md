@@ -38,5 +38,5 @@
 
 ## Установка в R4Bot
 ```powershell
-python manage_modules.py install github:Rarmash/R4Bot-Module-Logger@main --enable
+python manage_modules.py install github:Rarmash/R4Bot-Module-Logger@master --enable
 ```
